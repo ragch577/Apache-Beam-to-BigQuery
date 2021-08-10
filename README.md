@@ -42,8 +42,11 @@ bq --location=US mk mydataset
 -  Run the following commands in the Cloud Shell to set up the virtual environment to run our code:
 
 sudo pip install virtualenv 
+
 virtualenv -p python3 venv 
+
 source venv/bin/activate 
+
 pip install apache-beam[gcp]==2.24.0
 
 ## ENABLE DATAFLOW API
@@ -57,6 +60,8 @@ pip install apache-beam[gcp]==2.24.0
 ## RUN SQL coomand to check the records in BIGQUERY
 
 ![image](https://user-images.githubusercontent.com/37599615/128926844-55b3f6cc-833d-4a59-a0b1-ad6ae836c15f.png)
+
+## Caution, always choose source and destination geo locations same.
 
 
 
