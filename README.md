@@ -6,4 +6,7 @@
 - Unzip the downloaded file
 
   unzip temp.zip -d 2020
-- 
+- cd 2020
+- ls
+
+  2020–01.csv 2020–02.csv 2020–03.csv 2020–04.csv 2020–05.csv 2020–06.csv 2020–07.csv 2020–08.csv 2020–09.csv 2020–10.csv 2020–11.csv 2020–12.csv
