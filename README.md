@@ -43,3 +43,6 @@ bq --location=US mk mydataset
 -  Use the sh file to run the data pipeline
 -  Look the jobs on dataflow.
 
+![image](https://user-images.githubusercontent.com/37599615/128926200-eafe3b80-6ed4-479b-a7e1-52571bfb5232.png)
+
+
